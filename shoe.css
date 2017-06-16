@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background-image: url(greenbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: 200%;
+}
+h1 {color: #fff9f9;}
+.beach {
+    width: 45%;
+    position: relative;
+    left: 5%;
+    padding-top: 5px;
+    float: left;
+    padding-right: 100px}s
+.contactbody {
+    background-color: azure
+}
+a.button {
+    
+}
+.button:hover {
+    background-color: #45a049;
+}
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-underline-position: 0;}
+.beach1 {
+    width: 45%;
+    position: relative;
+    left: 5%;
+    padding-top: 5px;
+    float: right;
+    padding-right: 100px
+}
+
